@@ -12,7 +12,6 @@ body {
     "nav main"
     "footer footer";
   grid-template-columns: 200px 1fr;
-  /* Adjust the 200px as needed for the nav width */
   grid-template-rows: auto 1fr auto;
   font-family: 'Indie Flower', cursive;
   font-size: 1.2rem;
